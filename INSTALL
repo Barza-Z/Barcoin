@@ -1,0 +1,9 @@
+Building Barcoin
+
+See doc/readme-qt.rst for instructions on building Barcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Barcoin.
+
+See doc/build-*.txt for instructions on building barcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Barcoin.
